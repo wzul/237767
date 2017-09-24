@@ -28,7 +28,7 @@ Date Completed: **24 September 2017**
 
 **Sample** Running **Output**:
  
-![Output Image](https://github.com/wzul/237767/blob/master/Assignment_1/FindIssues/sample-running-output.png "Sample Running Output")
+<kbd>![Output Image](https://github.com/wzul/237767/blob/master/Assignment_1/FindIssues/sample-running-output.png "Sample Running Output")</kbd>
 
 # The Techniques
 
