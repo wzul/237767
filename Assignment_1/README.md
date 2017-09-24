@@ -15,7 +15,7 @@ Date Completed: **24 September 2017**
 
 # System Requirements
 
-- All **Windows** Edition compatible with Java
+- All **Windows** Edition compatible with Java & **Netbeans**.
 - **MacOS/UNIX may not work** due to differences in folder directory path handling. 
 
 # How to use?
