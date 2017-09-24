@@ -28,7 +28,7 @@ Date Completed: **24 September 2017**
 
 **Sample** Running **Output**:
  
-![alt text](https://filedn.com/lEgQEbAPxYcRDOH8ymu2Rk7/REALTIME%20PROGRAMMING/sample-running-output.png "Sample Running Output")
+![Output Image](https://github.com/wzul/237767/blob/master/Assignment_1/FindIssues/sample-running-output.png "Sample Running Output")
 
 # The Techniques
 
