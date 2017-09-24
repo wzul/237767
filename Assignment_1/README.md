@@ -15,7 +15,7 @@ Date Completed: **24 September 2017**
 
 # System Requirements
 
-- All **Windows** Edition compatible with Java
+- All **Windows** Edition compatible with Java & **Netbeans**.
 - **MacOS/UNIX may not work** due to differences in folder directory path handling. 
 
 # How to use?
@@ -28,7 +28,7 @@ Date Completed: **24 September 2017**
 
 **Sample** Running **Output**:
  
-![alt text](https://filedn.com/lEgQEbAPxYcRDOH8ymu2Rk7/REALTIME%20PROGRAMMING/sample-running-output.png "Sample Running Output")
+<kbd>![Output Image](https://github.com/wzul/237767/blob/master/Assignment_1/FindIssues/sample-running-output.png "Sample Running Output")</kbd>
 
 # The Techniques
 
