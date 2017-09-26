@@ -47,12 +47,8 @@ Date Completed: **24 September 2017**
 
 # References
 
-https://stackoverflow.com/questions/4871051/getting-the-current-working-directory-in-java
-
-https://stackoverflow.com/questions/5694385/getting-the-filenames-of-all-files-in-a-folder
-
-https://dzone.com/articles/java-example-list-all-files
-
-https://alvinalexander.com/blog/post/java/create-files-in-directory
-
-https://www.ntu.edu.sg/home/ehchua/programming/java/Java_Regexe.html
+1. https://stackoverflow.com/questions/4871051/getting-the-current-working-directory-in-java
+2. https://stackoverflow.com/questions/5694385/getting-the-filenames-of-all-files-in-a-folder
+3. https://dzone.com/articles/java-example-list-all-files
+4. https://alvinalexander.com/blog/post/java/create-files-in-directory
+5. https://www.ntu.edu.sg/home/ehchua/programming/java/Java_Regexe.html
