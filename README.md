@@ -15,6 +15,7 @@ Lecturer: [Zhamri Bin Che Ani](https://github.com/zhamri)
 | [05-02](https://github.com/wzul/237767/blob/master/TestAtomicInteger1p.java)| Display correct result of addition which is 10. |
 | [05-03](https://github.com/wzul/237767/blob/master/SynchronizedProof.java)| Compare execution time between normal thread and synchronized thread.|
 | [05-04](https://github.com/wzul/237767/blob/master/FindMax1000000.java)| Compare execution time for finding maximum number in a list.|
+| [05-05](https://github.com/wzul/237767/blob/master/Week0505.java)| Find Mode, Mean, Median using Thread.|
 
 # Credits
 
