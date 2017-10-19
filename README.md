@@ -13,6 +13,7 @@ Lecturer: [Zhamri Bin Che Ani](https://github.com/zhamri)
 | [Asg-1](https://github.com/wzul/237767/blob/master/Assignment_1)| Assignment 1. Determine how many issues for list of Java files in directory. |
 | [Asg-2](https://github.com/wzul/237767/blob/master/Assignment_2)| Assignment 2. Produce report for the usage of Java Keywords. |
 | [05-02](https://github.com/wzul/237767/blob/master/TestAtomicInteger1p.java)| Display correct result of addition which is 10. |
+| [05-03](https://github.com/wzul/237767/blob/master/SynchronizedProof.java)| Compare execution time between normal thread and synchronized thread.|
 
 # Credits
 
