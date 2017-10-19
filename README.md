@@ -14,6 +14,7 @@ Lecturer: [Zhamri Bin Che Ani](https://github.com/zhamri)
 | [Asg-2](https://github.com/wzul/237767/blob/master/Assignment_2)| Assignment 2. Produce report for the usage of Java Keywords. |
 | [05-02](https://github.com/wzul/237767/blob/master/TestAtomicInteger1p.java)| Display correct result of addition which is 10. |
 | [05-03](https://github.com/wzul/237767/blob/master/SynchronizedProof.java)| Compare execution time between normal thread and synchronized thread.|
+| [05-04](https://github.com/wzul/237767/blob/master/FindMax1000000.java)| Compare execution time for finding maximum number in a list.|
 
 # Credits
 
