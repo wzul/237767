@@ -29,7 +29,7 @@ class SynchronizedProof {
         }
         long endTimeT1 = System.nanoTime();
 
-        System.out.printf("Normal thread = %.8f seconds%n", (endTimeT1 - startTimeT1) / 1000000.0);
+        System.out.printf("Normal thread = %.8f seconds%n", (endTimeT1 - startTimeT1) / 1000000000.0);
     }
 
     public static void synchronizedIssue() throws InterruptedException {
@@ -47,7 +47,7 @@ class SynchronizedProof {
         }
         long endTimeT1 = System.nanoTime();
 
-        System.out.printf("Synchronized thread = %.8f seconds%n", (endTimeT1 - startTimeT1) / 1000000.0);
+        System.out.printf("Synchronized thread = %.8f seconds%n", (endTimeT1 - startTimeT1) / 1000000000.0);
     }
 }
 
