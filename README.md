@@ -16,6 +16,7 @@ Lecturer: [Zhamri Bin Che Ani](https://github.com/zhamri)
 | [05-03](https://github.com/wzul/237767/blob/master/SynchronizedProof.java)| Compare execution time between normal thread and synchronized thread.|
 | [05-04](https://github.com/wzul/237767/blob/master/FindMax1000000.java)| Compare execution time for finding maximum number in a list.|
 | [05-05](https://github.com/wzul/237767/blob/master/Week0505.java)| Find Mode, Mean, Median using Thread.|
+| [05-06](https://github.com/wzul/237767/blob/master/Week05_06.java)| Generate 1,000 random numbers between 500 and 3,000.|
 
 # Credits
 
