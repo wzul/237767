@@ -20,6 +20,7 @@ Lecturer: [Zhamri Bin Che Ani](https://github.com/zhamri)
 | [06_01](https://github.com/wzul/237767/blob/master/06_01)| Generate random number and display on Charts.|
 | [07_01](https://github.com/wzul/237767/blob/master/07_01)| Update POM files using Java.|
 | [07_02](https://github.com/wzul/237767/blob/master/07_02)| Search and count class file extensions.|
+| [07_03](https://github.com/wzul/237767/blob/master/07_03)| Search and count number of repository in Github.|
 
 # Credits
 
