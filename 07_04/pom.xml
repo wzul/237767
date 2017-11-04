@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>org.kohsuke</groupId>
+    <artifactId>github-api</artifactId>
+    <version>1.90</version>
+</dependency>
