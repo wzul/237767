@@ -19,6 +19,7 @@ Lecturer: [Zhamri Bin Che Ani](https://github.com/zhamri)
 | [05-06](https://github.com/wzul/237767/blob/master/Week05_06.java)| Generate 1,000 random numbers between 500 and 3,000.|
 | [06_01](https://github.com/wzul/237767/blob/master/06_01)| Generate random number and display on Charts.|
 | [07_01](https://github.com/wzul/237767/blob/master/07_01)| Update POM files using Java.|
+| [07_02](https://github.com/wzul/237767/blob/master/07_02)| Search and count class file extensions.|
 
 # Credits
 
