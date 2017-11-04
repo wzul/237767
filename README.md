@@ -18,7 +18,7 @@ Lecturer: [Zhamri Bin Che Ani](https://github.com/zhamri)
 | [05-05](https://github.com/wzul/237767/blob/master/Week0505.java)| Find Mode, Mean, Median using Thread.|
 | [05-06](https://github.com/wzul/237767/blob/master/Week05_06.java)| Generate 1,000 random numbers between 500 and 3,000.|
 | [06_01](https://github.com/wzul/237767/blob/master/06_01)| Generate random number and display on Charts.|
-
+| [07_01](https://github.com/wzul/237767/blob/master/07_01)| Update POM files using Java.|
 
 # Credits
 
